@@ -8,6 +8,7 @@ public class IplDasboard1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IplDasboard1Application.class, args);
+//		System.exit(SpringApplication.exit(SpringApplication.run(IplDasboard1Application.class, args)));
 	}
 
 }
